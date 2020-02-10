@@ -60,6 +60,7 @@ class main{
 	System.out.println("press 1 to continue:");
 	ch=sc.nextInt();
 	}
+	System.out.print("Hello")
 }
 }
 
